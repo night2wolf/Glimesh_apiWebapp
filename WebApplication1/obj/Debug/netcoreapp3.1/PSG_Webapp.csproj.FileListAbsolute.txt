@@ -99,4 +99,3 @@ C:\Users\Trevor\Documents\GitHub\Glimesh_apiWebapp\WebApplication1\bin\Debug\net
 C:\Users\Trevor\Documents\GitHub\Glimesh_apiWebapp\WebApplication1\bin\Debug\netcoreapp3.1\System.Reactive.dll
 C:\Users\Trevor\Documents\GitHub\Glimesh_apiWebapp\WebApplication1\bin\Debug\netcoreapp3.1\System.Reactive.xml
 C:\Users\Trevor\Documents\GitHub\Glimesh_apiWebapp\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
-C:\Users\Trevor\Documents\GitHub\Glimesh_apiWebapp\WebApplication1\obj\Debug\netcoreapp3.1\PSG_Webapp.csprojAssemblyReference.cache

@@ -18,8 +18,4 @@
     <PackageReference Include="StreamingClientLibrary.Glimesh" Version="1.0.0.8" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Classes\" />
-  </ItemGroup>
-
 </Project>
