@@ -6,3 +6,18 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+<div class="text-center">
+    @ViewBag.Greeting World
+</div>
+<img src="/Gifs/sample-gif-2.gif" alt="sample gif" />
+<div>
+    <video width="640" height="480" autoplay>
+        <source src="/Video/@ViewBag.Video" type="video/mp4" />
+    </video>
+        
+</div>
+<div>
+    <audio controls>
+        <source src="~/Audio/@ViewBag.Audio" type="audio/mp3" />
+    </audio>
+</div>

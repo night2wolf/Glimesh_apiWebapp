@@ -20,6 +20,10 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
+            int hour = DateTime.Now.Hour;
+            ViewBag.Greeting = hour < 12 ? "Good Morning" : "Good Afternoon";
+            ViewBag.Video = "HellYeah.mp4";
+            ViewBag.Audio = "HellYeah.mp3";
             return View();
         }
 
